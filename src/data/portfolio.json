@@ -1,0 +1,88 @@
+{
+  "education": [
+    {
+      "title": "B.S. in Computer Science",
+      "institution": "University of Toronto",
+      "date": "",
+      "description": [
+        "Expected Graduation: December 2027"
+      ],
+      "tags": []
+    },
+    {
+      "title": "",
+      "institution": "Kyoto University",
+      "date": "",
+      "description": [
+        "Exchange Semester at the Institute for Liberal Arts and Sciences"
+      ],
+      "tags": []
+    }
+  ],
+  "experience": [
+    {
+      "title": ".NET Developer co-op",
+      "institution": "Ontario Ministry of Public and Business Service Delivery and Procurement",
+      "date": "Sep 2024 - April 2025",
+      "description": [
+        "Created integration tests using Playwright and .NET for multiple applications and integrated them with Azure Release Pipelines for automatic deployments, reducing the need for manual testing",
+        "Optimized a Continuous Development pipeline using Azure Build Pipelines, reducing execution time from 30 minutes to 10 minutes",
+        "Designed and implemented Azure DevOps deployment pipelines with automated testing and deployment stages, reducing manual release effort",
+        "Supported QA teams in troubleshooting deployment, environment and database issues, minimizing testing downtime that could lead to release delays"
+      ],
+      "tags": [
+        "Azure DevOps",
+        "Oracle Database",
+        "SQL",
+        "Linux",
+        "Playwright",
+        ".NET Core",
+        "PowerShell"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "RTC Web Application ",
+      "institution": "",
+      "date": "",
+      "description": [
+        "Developed a full-stack web application supporting real-time video calls and direct messaging between users",
+        "Created user interface using React and Material UI and RESTful APIs with Express and Node.js",
+        "Deployed application to a virtual Linux machine using Docker containers and configured a NGINX reverse proxy to manage production traffic",
+        "Implemented secure user authentication for native user accounts with encrypted credential storage in MongoDB and GitHub OAuth integration"
+      ],
+      "tags": [
+        "React",
+        "Typescript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Docker",
+        "NGINX"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "C",
+      "Python",
+      "Javscript",
+      "Typescript",
+      "Java",
+      "PowerShell",
+      "SQL"
+    ],
+    "tools": [
+      "Azure DevOps",
+      ".NET Core",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Playwright",
+      "Oracle Database",
+      "Docker",
+      "git"
+    ]
+  }
+}
